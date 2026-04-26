@@ -10,3 +10,6 @@ A real-time GNSS data logger built with Python and Tkinter.
 
 ## How to run
 python main.py
+
+## Screenshot
+![GUI Screenshot](output_screenshot.png)
