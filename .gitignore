@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+gnss_export*.csv
+Nmea.txt
+output_screenshot.png
