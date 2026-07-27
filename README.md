@@ -3,6 +3,11 @@
 
 *A Study on Python-Based Parsing and Visualization of Location Data for the NavIC Data Viewer Application*
 
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-009688?style=for-the-badge)
+![GNSS](https://img.shields.io/badge/GNSS-Navigation-FF9800?style=for-the-badge)
+![NMEA](https://img.shields.io/badge/NMEA-Parser-4CAF50?style=for-the-badge)
+
 A real-time GNSS Data Logger developed using **Python** and **Tkinter** that parses NMEA sentences from a live GNSS receiver or a recorded NMEA log file, extracts satellite and positioning information, and visualizes them through an interactive graphical user interface.
 
 ---
@@ -102,7 +107,7 @@ The original application was designed to work with a live GNSS receiver. For dem
 
 ---
 
-## 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Shwethashree S**
 
